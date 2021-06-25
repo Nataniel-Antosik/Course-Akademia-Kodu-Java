@@ -1,4 +1,4 @@
-# Course 'Akademii Kodu' Java
+# Course 'Akademia Kodu' Java
 
 ## General info
 Online course conducted on 09.05.2020 by Michal Makaruk.  First Java programs, 
